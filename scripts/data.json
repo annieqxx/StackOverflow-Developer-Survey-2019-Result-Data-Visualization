@@ -1,0 +1,33 @@
+[
+    [
+        {"key":"Python","value":9219},
+        {"key":"HTML/CSS","value":383},
+        {"key":"SQL","value":28291},
+        {"key":"VBA","value":4065},
+        {"key":"JavaScript","value":4606},
+        {"key":"Other(s):","value":7920},
+        {"key":"TypeScript","value":16107},
+        {"key":"C++","value":627},
+        {"key":"R","value":973},
+        {"key":"Swift","value":4066},
+        {"key":"NA","value":1314},
+        {"key":"WebAssembly","value":855},
+        {"key":"Ruby","value":1645},
+        {"key":"C#","value":999},
+        {"key":"Java","value":2090},
+        {"key":"Rust","value":746},
+        {"key":"Kotlin","value":896},
+        {"key":"Scala","value":826},
+        {"key":"PHP","value":2476},
+        {"key":"Go","value":111},
+        {"key":"Bash/Shell/PowerShell","value":86},
+        {"key":"Objective-C","value":205},
+        {"key":"Assembly","value":59},
+        {"key":"C","value":185},
+        {"key":"Erlang","value":17},
+        {"key":"F#","value":40},
+        {"key":"Clojure","value":43},
+        {"key":"Dart","value":21},
+        {"key":"Elixir","value":12}
+  	]
+]
