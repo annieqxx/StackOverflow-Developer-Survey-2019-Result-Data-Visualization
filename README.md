@@ -8,4 +8,4 @@ There was about 18k datas inside the dataset, you could find more detail about t
 
 Below is a cover page of my project, which you could get a little insight about what I have done. 
 
-![](./coverimg.png)
+![](./coverImg1.png)
